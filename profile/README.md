@@ -1,6 +1,30 @@
+
+```markdown
+██████╗ ███████╗███████╗██╗     ███████╗███╗   ██╗███████╗
+██╔══██╗██╔════╝██╔════╝██║     ██╔════╝██║   ██║██╔════╝
+██████╔╝█████╗  █████╗  ██║     █████╗  ██║   ██║███████╗
+██╔══██╗██╔══╝  ██╔══╝  ██║     ██╔══╝  ╚██╗ ██╔╝╚════██║
+██║  ██║███████╗███████╗███████╗███████╗ ╚████╔╝ ███████║
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝  ╚═══╝  ╚══════╝
+```
+
 # ATLANTIANS
 
 ## The Sovereign Fiat Currency Intelligence Network
+
+---
+
+[![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](https://atlantians.org)
+[![Platform](https://img.shields.io/badge/Platform-Enterprise-green.svg)](https://atlantians.org)
+[![Status](https://img.shields.io/badge/Status-Active-purple.svg)](https://atlantians.org)
+[![TPS](https://img.shields.io/badge/TPS-10M%2B-red.svg)](https://atlantians.org)
+[![Network](https://img.shields.io/badge/Network-Mainnet-blue.svg)](https://atlantians.org)
+[![API](https://img.shields.io/badge/API-REST_V2-cyan.svg)](https://atlantians.org)
+[![Encryption](https://img.shields.io/badge/Encryption-Lattice_Based-darkgreen.svg)](https://atlantians.org)
+[![Consensus](https://img.shields.io/badge/Consensus-Proof_of_Authority-yellow.svg)](https://atlantians.org)
+[![Language](https://img.shields.io/badge/Language-Rust_&_Go-blue.svg)](https://atlantians.org)
+[![Updated](https://img.shields.io/badge/Updated-2024-orange.svg)](https://atlantians.org)
+[![Security](https://img.shields.io/badge/Security-AI_Protected-red.svg)](https://atlantians.org)
 
 ---
 
@@ -360,3 +384,16 @@ Website: https://atlantians.org
 ---
 
 **© 2024 ATLANTIANS ORGANIZATION. All Rights Reserved.**
+
+```markdown
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  ███████╗██████╗  █████╗ ████████╗███████╗██████╗  █████╗ ██████╗  ║
+║  ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔══██╗ ║
+║  █████╗  ██████╔╝███████║   ██║   █████╗  ██████╔╝███████║██████╔╝ ║
+║  ██╔══╝  ██╔══██╗██╔══██║   ██║   ██╔══╝  ██╔══██╗██╔══██║██╔═══╝  ║
+║  ██║     ██║  ██║██║  ██║   ██║   ███████╗██║  ██║██║  ██║██║      ║
+║  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝╚═╝╚═╝      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
