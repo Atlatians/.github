@@ -223,18 +223,18 @@ ATLANTIANS uses **Proof of Authority (PoA)** optimized for central bank governan
 
 | Repository | Description |
 |------------|-------------|
-| atlantis-core | Foundational blockchain infrastructure — consensus, networking, validation |
+| atlantians-core | Foundational blockchain infrastructure — consensus, networking, validation |
 | atlantis-scl | Sovereign Currency Ledger — immutable fiat tracking engine |
-| atlantis-cbcc | Central Bank Command Center — monetary authority dashboard |
-| atlantis-protocol | Protocol definitions and smart contract standards |
-| atlantis-acvp | Anti-Counterfeit Verification Protocol |
-| atlantis-fraud-detector | AI-driven fraud detection system |
-| atlantis-iobp | Inter-Operable Banking Protocol |
-| atlantis-sdk | Software Development Kit |
-| atlantis-dashboard | Citizen Financial Dashboard |
-| atlantis-api | Public and private API services |
-| atlantis-contracts | Smart contracts for programmable fiat |
-| atlantis-docs | Technical documentation |
+| atlantians-cbcc | Central Bank Command Center — monetary authority dashboard |
+| atlantians-protocol | Protocol definitions and smart contract standards |
+| atlantians-acvp | Anti-Counterfeit Verification Protocol |
+| atlantians-fraud-detector | AI-driven fraud detection system |
+| atlantians-iobp | Inter-Operable Banking Protocol |
+| atlantians-sdk | Software Development Kit |
+| atlantians-dashboard | Citizen Financial Dashboard |
+| atlantians-api | Public and private API services |
+| atlantians-contracts | Smart contracts for programmable fiat |
+| atlantians-docs | Technical documentation |
 
 ---
 
