@@ -224,7 +224,7 @@ ATLANTIANS uses **Proof of Authority (PoA)** optimized for central bank governan
 | Repository | Description |
 |------------|-------------|
 | atlantians-core | Foundational blockchain infrastructure — consensus, networking, validation |
-| atlantis-scl | Sovereign Currency Ledger — immutable fiat tracking engine |
+| atlantians-scl | Sovereign Currency Ledger — immutable fiat tracking engine |
 | atlantians-cbcc | Central Bank Command Center — monetary authority dashboard |
 | atlantians-protocol | Protocol definitions and smart contract standards |
 | atlantians-acvp | Anti-Counterfeit Verification Protocol |
